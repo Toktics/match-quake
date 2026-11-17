@@ -22,7 +22,8 @@
     "egg-00-intact",
     "egg-01-hairline",
     "egg-02-deep-crack",
-    "egg-03-open"
+    "egg-03-open",
+    "egg-04-beak"
   ],
   "pieces": [
     "cap-rear",
@@ -50,7 +51,7 @@
     "Open frame is composed from the two final authored pieces at their registered positions.",
     "Source PNGs may contain invisible RGB; use actual alpha when inspecting/compositing."
   ],
-  "version": 3,
+  "version": 4,
   "legacyPieces": [
     "shell-cap",
     "shell-front"

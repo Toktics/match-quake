@@ -781,6 +781,14 @@
         "bytes": 92820
       }
     },
+    "egg-04-beak": {
+      "egg-state": {
+        "path": "egg-states/egg-04-beak.webp",
+        "width": 512,
+        "height": 640,
+        "bytes": 21908
+      }
+    },
     "shell-cap": {
       "egg-state": {
         "path": "egg-states/shell-cap.webp",
@@ -955,7 +963,11 @@
     "tap-to-crack",
     "badge",
     "egg",
-    "logo"
+    "logo",
+    "dialog-card",
+    "dialog-primary",
+    "dialog-secondary",
+    "dialog-disabled"
   ],
   "eggStates": [
     "bowl-front",
@@ -966,6 +978,7 @@
     "egg-01-hairline",
     "egg-02-deep-crack",
     "egg-03-open",
+    "egg-04-beak",
     "shell-cap",
     "shell-front"
   ],
@@ -983,7 +996,8 @@
       "egg-00-intact",
       "egg-01-hairline",
       "egg-02-deep-crack",
-      "egg-03-open"
+      "egg-03-open",
+      "egg-04-beak"
     ],
     "pieces": [
       "cap-rear",
